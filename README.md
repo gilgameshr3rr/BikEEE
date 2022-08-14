@@ -27,5 +27,9 @@ $ npm start
 -   Add automated tests to project 
 -   Improve app design
 
+##  Visit BikEEE
+You can find BikEEE [here](https://bikeee.netlify.app/).
+
+
 ## Feedback
 The CSV in the PDF is broken, its not well formated. Maybe it could be sent in separeted file instead of in the pdf. 
